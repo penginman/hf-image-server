@@ -1,0 +1,1 @@
+{"type":"chat.send","payload":{"conversationId":"01KK5FQC03Q9Z1PMQTSDHX50PK","mentionIds":["01KK5GEQKED3F59HQ740MSEK98"],"senderId":"01KK5GJG1903817T9XYK8D377X","workspacePath":"D:\\Project\\Golutra\\hf_image-server","text":"[STATUS_CHECK]\n当前进度：已完成任务需求拆解与代码位点确认，渠道候选与容错边界已确认；当前等待你对计划审核放行后开始编码。\n阻塞点：无。\nPLAN REVIEW REQUEST 提交时间：0 分钟（已提交）。"}}

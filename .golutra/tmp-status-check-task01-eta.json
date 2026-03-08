@@ -1,0 +1,1 @@
+{"type":"chat.send","payload":{"conversationId":"01KK5FQC03Q9Z1PMQTSDHX50PK","mentionIds":["01KK5GEQKED3F59HQ740MSEK98"],"senderId":"01KK5GJG1903817T9XYK8D377X","workspacePath":"D:\\Project\\Golutra\\hf_image-server","text":"[STATUS_CHECK]\n任务01当前完成度：30%（已完成方案与代码位点确认，等待你放行后编码）。\n阻塞点：无。\n预计提交 [CODE REVIEW REQUEST] 时间：25 分钟。"}}

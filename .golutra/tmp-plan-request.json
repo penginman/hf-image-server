@@ -1,0 +1,1 @@
+{"type":"chat.send","payload":{"workspacePath":"D:\\Project\\Golutra\\hf_image-server","conversationId":"01KK5FQC03Q9Z1PMQTSDHX50PK","senderId":"01KK5GJG1903817T9XYK8D377X","mentionIds":["01KK5GEQKED3F59HQ740MSEK98"],"text":"[PLAN REVIEW REQUEST]\nchanged-files:\n- front/components/ControlPanel.tsx\nblocker: no"}}

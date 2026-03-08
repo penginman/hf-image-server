@@ -1,0 +1,38 @@
+{
+  "_roadmapMeta": {
+    "updatedAt": 1772938889645
+  },
+  "roadmap": {
+    "objective": "实现 Gradio EventStream 实时进度反馈（基于 msg/progress_data）",
+    "tasks": [
+      {
+        "id": 1,
+        "number": "01",
+        "pinned": true,
+        "status": "done",
+        "title": "服务层实现 SSE 解析与进度事件抽象（progress/heartbeat/completed/close）"
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "pinned": true,
+        "status": "in-progress",
+        "title": "前端页面接入进度状态并实时展示（百分比+阶段描述）"
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "pinned": true,
+        "status": "in-progress",
+        "title": "联调回归：重复事件去重、空 progress_data 容错、异常与收尾验证"
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "pinned": false,
+        "status": "pending",
+        "title": "向 owner+supervisor 汇总上线结果与剩余风险"
+      }
+    ]
+  }
+}

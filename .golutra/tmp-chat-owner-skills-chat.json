@@ -1,0 +1,1 @@
+{"type":"chat.send","payload":{"conversationId":"01KK5FQC03Q9Z1PMQTSDHX50PK","mentionIds":["01J00000000000000000000000"],"senderId":"01KK5GJG1903817T9XYK8D377X","workspacePath":"D:\\Project\\Golutra\\hf_image-server","text":"已执行 `golutra-cli skills chat`，chat 技能规范已加载。"}}

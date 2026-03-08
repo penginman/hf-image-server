@@ -1,0 +1,106 @@
+{
+  "inviteSkillSelections": {
+    "assistant": [],
+    "member": [],
+    "supervisor": []
+  },
+  "memberSequence": {},
+  "members": [
+    {
+      "autoStartTerminal": false,
+      "avatar": "css:orbit",
+      "id": "01J00000000000000000000000",
+      "name": "Owner",
+      "role": "",
+      "roleKey": "members.roles.owner",
+      "roleType": "owner",
+      "status": "online"
+    },
+    {
+      "autoStartTerminal": true,
+      "avatar": "local:9f1ed17cfef7ea8777aad46f581e61103340d5cd6c6195a703f81e5b0dfb8e09",
+      "collaborationMode": true,
+      "id": "01KK5GEQKED3F59HQ740MSEK98",
+      "name": "岑野灯",
+      "role": "",
+      "roleKey": "members.roles.aiAssistant",
+      "roleType": "assistant",
+      "sandboxed": false,
+      "status": "online",
+      "terminalCommand": "codex",
+      "terminalType": "codex",
+      "unlimitedAccess": true
+    },
+    {
+      "autoStartTerminal": true,
+      "avatar": "css:anime-10011",
+      "collaborationMode": true,
+      "id": "01KK5GJG19EGWT6WF5J6R9FDN0",
+      "name": "全栈-墨木",
+      "role": "",
+      "roleKey": "members.roles.member",
+      "roleType": "member",
+      "sandboxed": false,
+      "status": "online",
+      "terminalCommand": "codex",
+      "terminalType": "codex",
+      "unlimitedAccess": true
+    },
+    {
+      "autoStartTerminal": true,
+      "avatar": "css:anime-10015",
+      "collaborationMode": true,
+      "id": "01KK5GJG19Q5E452YKEEFQGA0S",
+      "name": "后端-星松",
+      "role": "",
+      "roleKey": "members.roles.member",
+      "roleType": "member",
+      "sandboxed": false,
+      "status": "online",
+      "terminalCommand": "codex",
+      "terminalType": "codex",
+      "unlimitedAccess": true
+    },
+    {
+      "autoStartTerminal": true,
+      "avatar": "css:anime-10009",
+      "collaborationMode": true,
+      "id": "01KK5GJG1903817T9XYK8D377X",
+      "manualStatus": "online",
+      "name": "前端-火岚",
+      "role": "",
+      "roleKey": "members.roles.member",
+      "roleType": "member",
+      "sandboxed": false,
+      "status": "online",
+      "terminalCommand": "codex",
+      "terminalType": "codex",
+      "unlimitedAccess": true
+    },
+    {
+      "autoStartTerminal": true,
+      "avatar": "/avatar-presets/supervisor/supervisor-default.gif",
+      "collaborationMode": true,
+      "id": "01KK5HRQGJHWY51XM6GPZQZEPQ",
+      "name": "霜羽舟",
+      "role": "",
+      "roleKey": "members.roles.supervisor",
+      "roleType": "supervisor",
+      "sandboxed": false,
+      "status": "online",
+      "terminalCommand": "codex",
+      "terminalType": "codex",
+      "unlimitedAccess": true
+    }
+  ],
+  "projectId": "641f853ce7a910cb0b17224143775e6871faf927e73bdf652d331190d476b1a5",
+  "terminal": {
+    "recentClosedTabs": [
+      {
+        "closedAt": 1772962900690,
+        "memberId": "01KK5GJG1903817T9XYK8D377X"
+      }
+    ]
+  },
+  "version": 1
+}
